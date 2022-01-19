@@ -1,16 +1,11 @@
-﻿using BusinessLogic.Model;
-using System;
+﻿using System;
 
-namespace UI
+namespace BookClub.UI
 {
     class Program
     {
         static void Main(string[] args)
         {
-           
-
-
-
             Console.ReadLine();
         }
     }
